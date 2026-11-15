@@ -2,7 +2,7 @@
 
 **AI-Powered Financial Fraud Detection and Investigation Platform**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/albikos1110/FinShield-AI/blob/main/FinShield_AI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/albikos1110-lab/FinShield-AI/blob/main/FinShield_AI.ipynb)
 
 ## About the Project
 
